@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haohanhaiyang)](https://github.com/anuraghazra/github-readme-stats)
+[![统计](https://github-readme-stats.vercel.app/api?username=haohanhaiyang&show_icons=true&locale=cn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **haohanhaiyang/haohanhaiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
